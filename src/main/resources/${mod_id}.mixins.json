@@ -1,0 +1,18 @@
+{
+	"required": true,
+	"compatibilityLevel": "JAVA_${java_version}",
+	"plugin": "roland_a.mc_mods.template.Plugin",
+	"package": "roland_a.mc_mods.template.mixin",
+	"mixins": [
+	],
+	"client": [
+	],
+	"server": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
